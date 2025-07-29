@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notes-shaurya/static/css/main.2ff174fe.css",
+    "main.js": "/notes-shaurya/static/js/main.5ea00739.js",
+    "static/js/453.d4bc87df.chunk.js": "/notes-shaurya/static/js/453.d4bc87df.chunk.js",
+    "index.html": "/notes-shaurya/index.html",
+    "main.2ff174fe.css.map": "/notes-shaurya/static/css/main.2ff174fe.css.map",
+    "main.5ea00739.js.map": "/notes-shaurya/static/js/main.5ea00739.js.map",
+    "453.d4bc87df.chunk.js.map": "/notes-shaurya/static/js/453.d4bc87df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff174fe.css",
+    "static/js/main.5ea00739.js"
+  ]
+}
